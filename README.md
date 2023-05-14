@@ -1,2 +1,2 @@
 # Book-donation-sytem
-A C program that allows users to donate, list, and search for books.
+This is a simple C program that allows users to interact with a donation system for books. It uses a struct to represent the books, which includes a title, author, and year of publication. Users can donate a book, with up to 100 donations allowed, list all donated books, and search for a book by author. The program utilizes a while loop to continue accepting user input until the user chooses to exit. If no books have been donated yet, the program will display a message indicating that. Otherwise, it will display the relevant information for each book, including the title, author, and year.
